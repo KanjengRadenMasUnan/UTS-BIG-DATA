@@ -5,5 +5,5 @@
 - **NIM**   : 14022300054
 - **Kelas** : 6B-BIS
 
-## 📄 Deskripsi Singkat Proyek
+## 📄 Deskripsi Singkat
 - Aplikasi: Words of Wonders: Kosa Kata
