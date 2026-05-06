@@ -1,8 +1,9 @@
-# UTS-BIG-DATA
+# 📌 UTS BIG DATA
 
-oleh 
-[Unan Nurwenda]
-[14022300054]
-[6B-BIS]
+## 🧑‍🎓 Identitas Mahasiswa
+- **Nama**  : Unan Nurwenda
+- **NIM**   : 14022300054
+- **Kelas** : 6B-BIS
 
-Deskripsi singkat tentang proyek ini.
+## 📄 Deskripsi Singkat Proyek
+- Aplikasi: Words of Wonders: Kosa Kata
