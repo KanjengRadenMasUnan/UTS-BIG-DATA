@@ -6,4 +6,5 @@
 - **Kelas** : 6B-BIS
 
 ## 📄 Deskripsi Singkat
-- Aplikasi: Words of Wonders: Kosa Kata
+- Aplikasi: Rumah Pendidikan
+- Developer: Kementerian Pendidikan Dasar dan Menengah RI
